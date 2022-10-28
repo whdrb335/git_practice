@@ -1,2 +1,3 @@
 hello codestates
 Git is good.
+kim jin su
