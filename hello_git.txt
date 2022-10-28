@@ -1,3 +1,6 @@
 hello codestates
+<<<<<<< HEAD
 Git is good.
 kim jin su
+=======
+>>>>>>> c206380bede708f52a5d5f45f99b0c71e5c1e22e
